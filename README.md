@@ -1,4 +1,4 @@
 # Auto-Thermostat-using-Raspberry-Pi-Pico
-Using a Raspberry Pi Pico to regulate when an outlet turns on with a relay based on an outdoor DHT22 Temperature/Humidity sensor and an LM393 Rain Drop Sensor, and an indoor DHT22 Temperature/Humidity sensor.
+Using a Raspberry Pi Pico and MicroPython to regulate when an outlet turns on with a relay based on an outdoor DHT22 Temperature/Humidity sensor and an LM393 Rain Drop Sensor, and an indoor DHT22 Temperature/Humidity sensor.
 
 This is a Work in Progress
